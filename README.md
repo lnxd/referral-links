@@ -14,7 +14,7 @@
 | Italki | https://www.italki.com/i/FBEd0c |  |
 | Klook | https://www.klook.com/invite/9UNEF |  |
 | Koinly | https://koinly.io/?via=CB27AFF2 |  |
-| Kucoin | https://www.kucoin.com/ucenter/signup?rcode=rBPJPJM | https://www.kucoin.com/news/en-invite |
+| Kucoin | https://www.kucoin.com/ucenter/signup?rcode=rBPJPJM | [FAQ](https://www.kucoin.com/news/en-invite) |
 | Luno | https://www.luno.com/invite/B4GJZS |  |
 | MEXC | https://m.mexc.com/auth/signup?inviteCode=1KxaS |  |
 | NordVPN | https://ref.nordvpn.com/ApZPzdyZsCg |  |
