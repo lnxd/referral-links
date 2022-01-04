@@ -6,7 +6,7 @@
 | Airtasker | https://www.airtasker.com/r/alex-f-20915734 |  |
 | Aliexpress | https://a.aliexpress.com/_mrz9NWf |  |
 | Amaysim | http://amaysi.ms/r/zoCxYgiJ |  |
-| Binance | https://accounts.binance.com/en/register?ref=158612165 | Referer gets 40% commission on trades |
+| Binance | https://accounts.binance.com/en/register?ref=158612165 | Referer gets 20% commission on trades |
 | Coinjar | https://cjr.io/tvpZ | Referer and referee get 500 points |
 | Coinspot | https://www.coinspot.com.au/join/REFXBQPYG |  |
 | Gate.io | https://www.gate.io/signup/9616970 | Referee gets 20% discount on trading fees, referer gets 20% commission |
