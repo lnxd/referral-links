@@ -10,6 +10,7 @@
 | Coinjar | https://cjr.io/tvpZ | Referer and referee get 500 points |
 | Coinspot | https://www.coinspot.com.au/join/REFXBQPYG |  |
 | Gate.io | https://www.gate.io/signup/9616970 | Referee gets 20% discount on trading fees, referer gets 20% commission |
+| HiveOS | https://hiveos.farm?ref=1216991 |  |
 | Italki | https://www.italki.com/i/FBEd0c |  |
 | Klook | https://www.klook.com/invite/9UNEF |  |
 | Koinly | https://koinly.io/?via=CB27AFF2 |  |
