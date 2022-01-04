@@ -24,3 +24,4 @@
 | Uber (Driver) | https://www.uber.com/a/join/?invite_code=kh3hv61p32pf |  |
 | Uber Eats | eats-alexf30987ui |  |
 | Wise | https://wise.com/invite/i/alexanderf192 |  |
+| 3commas | https://3commas.io/?c=lnxd |  |
