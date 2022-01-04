@@ -19,6 +19,7 @@
 | MEXC | https://m.mexc.com/auth/signup?inviteCode=1KxaS |  |
 | NordVPN | https://ref.nordvpn.com/ApZPzdyZsCg |  |
 | Plenti | https://mbsy.co/plenti/51115178 |  |
+| Swyftx | https://trade.swyftx.com.au/register/?ref=lnxd |  |
 | Tradingview | https://www.tradingview.com/gopro/?share_your_love=lnxd | Referer gets $30 coupon after referee makes paid purchase |
 | Uber (Driver) | https://www.uber.com/a/join/?invite_code=kh3hv61p32pf |  |
 | Uber Eats | eats-alexf30987ui |  |
