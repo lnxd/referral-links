@@ -9,6 +9,7 @@
 | Binance | https://accounts.binance.com/en/register?ref=158612165 | Referer gets 20% commission on trades |
 | Coinjar | https://cjr.io/tvpZ | Referer and referee get 500 points |
 | Coinspot | https://www.coinspot.com.au/join/REFXBQPYG |  |
+| FTX | https://ftx.com/profile#a=74917135 |  |
 | Gate.io | https://www.gate.io/signup/9616970 | Referee gets 20% discount on trading fees, referer gets 20% commission |
 | HiveOS | https://hiveos.farm?ref=1216991 |  |
 | Italki | https://www.italki.com/i/FBEd0c |  |
