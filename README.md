@@ -1,6 +1,6 @@
 ## My Referral Links
 
-| Name | Link | Notes |
+| Name | Link/Code | Notes |
 |--|--|--|
 | Afterpay | https://fbuy.io/ap-anz/alex49492 |  |
 | Airtasker | https://www.airtasker.com/r/alex-f-20915734 |  |
@@ -18,6 +18,7 @@
 | Kucoin | https://www.kucoin.com/ucenter/signup?rcode=rBPJPJM | [FAQ](https://www.kucoin.com/news/en-invite) |
 | Luno | https://www.luno.com/invite/B4GJZS |  |
 | MEXC | https://m.mexc.com/auth/signup?inviteCode=1KxaS |  |
+| My Muscle Chef | VUQ074NB |  |
 | NordVPN | https://ref.nordvpn.com/ApZPzdyZsCg |  |
 | Plenti | https://mbsy.co/plenti/51115178 |  |
 | Swyftx | https://trade.swyftx.com.au/register/?ref=lnxd |  |
