@@ -9,6 +9,7 @@
 | Binance | https://accounts.binance.com/en/register?ref=158612165 | Referer gets 20% commission on trades |
 | Coinjar | https://cjr.io/tvpZ | Referer and referee get 500 points |
 | Coinspot | https://www.coinspot.com.au/join/REFXBQPYG |  |
+| Crazytel | https://portal.crazytel.com.au/signup.php?referral=neohome | Referer gets 10% commission |
 | crypto.com | https://platinum.crypto.com/r/6cjdem6j3u | Referer and referee both get $25, after successful sign-up and a valid transaction |
 | FTX | https://ftx.com/profile#a=74917135 | Referer receives 25.00% of referee's trading fees and referee receives a 5.00% fee discount all their trades |
 | Gate.io | https://www.gate.io/signup/9616970 | Referee gets 20% discount on trading fees, referer gets 20% commission |
@@ -22,6 +23,7 @@
 | My Muscle Chef | VUQ074NB |  |
 | NordVPN | https://ref.nordvpn.com/ApZPzdyZsCg |  |
 | Plenti | https://mbsy.co/plenti/51115178 |  |
+| ReAmped | https://reampedenergy.com.au/RAFdPNGO1a | Referer and referee both get $50 credit |
 | Swyftx | https://trade.swyftx.com.au/register/?ref=lnxd |  |
 | Tradingview | https://www.tradingview.com/gopro/?share_your_love=lnxd | Referer gets $30 coupon after referee makes paid purchase |
 | Uber (Driver) | https://www.uber.com/a/join/?invite_code=kh3hv61p32pf |  |
