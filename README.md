@@ -1,11 +1,14 @@
 ## My Referral Links
 
+This is a compilation of my referral, agent, and associate codes for a range of companies and services. I use it primarily as a reference when referring people, but I also hope that a kind person searching for these codes might stumble upon this page.
+
 | Name | Link/Code | Notes |
 |--|--|--|
 | Afterpay | https://fbuy.io/ap-anz/alex49492 |  |
 | Airtasker | https://www.airtasker.com/r/alex-f-20915734 |  |
 | Aliexpress | https://a.aliexpress.com/_mrz9NWf |  |
 | Amaysim | http://amaysi.ms/r/zoCxYgiJ |  |
+| Amazon | https://amzn.to/3DuWo2I |  |
 | Binance | https://accounts.binance.com/en/register?ref=158612165 | Referer gets 20% commission on trades |
 | Coinjar | https://cjr.io/tvpZ | Referer and referee get 500 points |
 | Coinspot | https://www.coinspot.com.au/join/REFXBQPYG |  |
