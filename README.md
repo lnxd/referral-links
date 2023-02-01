@@ -11,6 +11,7 @@
 | Coinspot | https://www.coinspot.com.au/join/REFXBQPYG |  |
 | Crazytel | https://portal.crazytel.com.au/signup.php?referral=neohome | Referer gets 10% commission |
 | crypto.com | https://platinum.crypto.com/r/6cjdem6j3u | Referer and referee both get $25, after successful sign-up and a valid transaction |
+| Exetel | EXEAGENT1747 | Using this agent code gives me a 5% on-going commission |
 | Gate.io | https://www.gate.io/signup/9616970 | Referee gets 20% discount on trading fees, referer gets 20% commission |
 | HiveOS | https://hiveos.farm?ref=1216991 |  |
 | Italki | https://www.italki.com/i/FBEd0c |  |
@@ -22,6 +23,7 @@
 | My Muscle Chef | VUQ074NB |  |
 | NordVPN | https://ref.nordvpn.com/ApZPzdyZsCg |  |
 | Plenti | https://mbsy.co/plenti/51115178 |  |
+| Revolut | https://revolut.com/referral/alexanualj | Referrer gets $20 |
 | Shopback | https://app.shopback.com/eaz7FOni8ub | Referee gets $10, referer gets $40 |
 | Swyftx | https://trade.swyftx.com.au/register/?ref=lnxd |  |
 | Tradingview | https://www.tradingview.com/gopro/?share_your_love=lnxd | Referer gets $30 coupon after referee makes paid purchase |
