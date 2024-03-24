@@ -21,6 +21,7 @@ This is a compilation of my referral, agent, and associate codes for a range of 
 | Klook | https://www.klook.com/invite/9UNEF |  |
 | Koinly | https://koinly.io/?via=CB27AFF2 |  |
 | Kucoin | https://www.kucoin.com/ucenter/signup?rcode=rBPJPJM | [FAQ](https://www.kucoin.com/news/en-invite) |
+| Launtel | https://residential.launtel.net.au/residential/referral/LXND | $50 to referrer, $25 to referee |
 | Luno | https://www.luno.com/invite/B4GJZS |  |
 | MEXC | https://m.mexc.com/auth/signup?inviteCode=1KxaS |  |
 | My Muscle Chef | VUQ074NB |  |
